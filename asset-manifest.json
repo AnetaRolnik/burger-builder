@@ -1,7 +1,13 @@
 {
-  "main.css": "static/css/main.553e15c8.css",
-  "main.css.map": "static/css/main.553e15c8.css.map",
-  "main.js": "static/js/main.54ead671.js",
-  "main.js.map": "static/js/main.54ead671.js.map",
+  "main.css": "static/css/main.3246be2a.css",
+  "main.css.map": "static/css/main.3246be2a.css.map",
+  "main.js": "static/js/main.0f330509.js",
+  "main.js.map": "static/js/main.0f330509.js.map",
+  "static/js/0.33f6366a.chunk.js": "static/js/0.33f6366a.chunk.js",
+  "static/js/0.33f6366a.chunk.js.map": "static/js/0.33f6366a.chunk.js.map",
+  "static/js/1.05f44308.chunk.js": "static/js/1.05f44308.chunk.js",
+  "static/js/1.05f44308.chunk.js.map": "static/js/1.05f44308.chunk.js.map",
+  "static/js/2.8caebe21.chunk.js": "static/js/2.8caebe21.chunk.js",
+  "static/js/2.8caebe21.chunk.js.map": "static/js/2.8caebe21.chunk.js.map",
   "static\\media\\burger-logo.png": "static/media/burger-logo.b8503d26.png"
 }
