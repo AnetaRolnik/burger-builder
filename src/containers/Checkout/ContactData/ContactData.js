@@ -149,7 +149,9 @@ class ContactData extends Component {
                         key={formElement.id}
                         elementType={formElement.config.elementType}
                         elementConfig={formElement.config.elementConfig}
-                        value= {formElement.config.value}
+                        value={formElement.config.elementConfig.type === 'email'
+                            ? formElement.config.value.toLowerCase()
+                            : formElement.config.value}
                         invalid={!formElement.config.valid}
                         shouldValidate={formElement.config.validation}
                         touched={formElement.config.touched}
